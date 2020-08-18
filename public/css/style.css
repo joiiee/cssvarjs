@@ -30,9 +30,9 @@ main {
 img {
     width: 100%;
     height: 100%;
-    padding: var(--spacing);
-    background: var(--base);
-    filter: blur(var(--blur));
+    padding: var(--spacing, 10px);
+    background: var(--base, #ecf0a1);
+    filter: blur(var(--blur, 10px));
 }
 
 .hl {
