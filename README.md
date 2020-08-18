@@ -1,4 +1,4 @@
-# Update CSS Variables with JavaScript #3
+# #3 Update CSS Variables with JavaScript
 
 30 Day Vanilla JS Challenge
 
