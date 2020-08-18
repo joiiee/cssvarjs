@@ -45,13 +45,13 @@ img {
 }
 
 
-@media screen and (max-width: 425px) {
+@media screen and (max-device-width: 425px) {
     .image {
         width: 350px;
     }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-device-width: 375px) {
     .image {
         width: 250px;
     }
